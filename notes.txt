@@ -1,0 +1,4 @@
+input: 304x228 image
+Original images are downsampled by a factor of 2
+Dropout was applied to layer 6 in the coarse model
+The coarse model was pre-trained with ImageNet data, however this did not make much of a difference.

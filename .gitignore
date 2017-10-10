@@ -1,0 +1,9 @@
+/MNIST_data
+/datasets
+/checkpoints
+/coarse_checkpoints
+/manual_checkpoints
+/test_output
+/.idea
+
+*.pyc
